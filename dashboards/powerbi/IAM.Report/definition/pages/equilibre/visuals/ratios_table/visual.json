@@ -1,0 +1,128 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "ratios_table",
+  "position": {
+    "x": 24,
+    "y": 445,
+    "z": 0,
+    "width": 1232,
+    "height": 300,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "annee"
+                }
+              },
+              "queryRef": "Finance.annee",
+              "nativeQueryRef": "Année",
+              "displayName": "Année"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "FR"
+                }
+              },
+              "queryRef": "Finance.FR",
+              "nativeQueryRef": "FR",
+              "displayName": "FR"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "BFG"
+                }
+              },
+              "queryRef": "Finance.BFG",
+              "nativeQueryRef": "BFG",
+              "displayName": "BFG"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "Tresorerie nette"
+                }
+              },
+              "queryRef": "Finance.Tresorerie nette",
+              "nativeQueryRef": "Tresorerie nette",
+              "displayName": "Tresorerie nette"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "Capitaux propres"
+                }
+              },
+              "queryRef": "Finance.Capitaux propres",
+              "nativeQueryRef": "Capitaux propres",
+              "displayName": "Capitaux propres"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Calculs sur bilan social net'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "14D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

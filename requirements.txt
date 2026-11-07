@@ -1,0 +1,3 @@
+# Python >= 3.10. Bibliothèque standard uniquement pour le pipeline et les tests.
+# Lecture immédiate du notebook : notebooks/financial_analysis.html.
+# Pour exécuter le .ipynb : pip install -r requirements-notebook.txt

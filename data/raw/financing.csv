@@ -1,0 +1,19 @@
+ordre,libelle,emplois_2023,ressources_2023,emplois_2024,ressources_2024,emplois_2025,ressources_2025,type_ligne,source,page,unite_source
+1,Autofinancement,,7029405,,1302301,,9154283,total,S4,238,milliers MAD
+2,Capacité d'autofinancement,,8954339,,4993435,,10411273,detail,S4,238,milliers MAD
+3,Distributions de bénéfices,,1924934,,3691135,,1256990,detail,S4,238,milliers MAD
+4,Cessions et réductions d'immobilisations,,78430,,4350,,1328848,total,S4,238,milliers MAD
+5,Augmentation des dettes de financement,,13693,,-13693,,3000000,total,S4,238,milliers MAD
+6,TOTAL RESSOURCES STABLES,,7121528,,1292958,,13483131,grand_total,S4,238,milliers MAD
+7,Acquisitions et augmentations d'immobilisations,3552550,,4606011,,6419473,,total,S4,238,milliers MAD
+8,Acquisitions d'immobilisations incorporelles,292833,,452389,,1342651,,detail,S4,238,milliers MAD
+9,Acquisitions d'immobilisations corporelles,2873529,,2677569,,3964213,,detail,S4,238,milliers MAD
+10,Acquisitions d'immobilisations financières,386142,,56889,,966865,,detail,S4,238,milliers MAD
+11,Augmentation des créances immobilisées,47,,1419164,,145745,,detail,S4,238,milliers MAD
+12,Remboursement des capitaux propres,0,,0,,0,,detail,S4,238,milliers MAD
+13,Remboursement des dettes de financement,0,,0,,0,,detail,S4,238,milliers MAD
+14,Emplois en non-valeurs,700000,,0,,0,,detail,S4,238,milliers MAD
+15,TOTAL EMPLOIS STABLES,4252550,,4606011,,6419473,,grand_total,S4,238,milliers MAD
+16,Variation du besoin de financement global,1329711,0,1622897,0,0,3437641,total,S4,238,milliers MAD
+17,Variation de la trésorerie,1539266,0,0,4935950,10501298,0,total,S4,238,milliers MAD
+18,TOTAL GÉNÉRAL EMPLOIS / RESSOURCES,7121528,7121528,6228907,6228907,16920772,16920772,grand_total,S4,238,milliers MAD

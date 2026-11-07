@@ -1,0 +1,128 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "actif",
+  "position": {
+    "x": 24,
+    "y": 120,
+    "z": 0,
+    "width": 610,
+    "height": 645,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Actif"
+                    }
+                  },
+                  "Property": "Ordre"
+                }
+              },
+              "queryRef": "Actif.Ordre",
+              "nativeQueryRef": "Ordre",
+              "displayName": "Ordre"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Actif"
+                    }
+                  },
+                  "Property": "Poste"
+                }
+              },
+              "queryRef": "Actif.Poste",
+              "nativeQueryRef": "Poste",
+              "displayName": "Poste"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Actif"
+                    }
+                  },
+                  "Property": "2023"
+                }
+              },
+              "queryRef": "Actif.2023",
+              "nativeQueryRef": "2023",
+              "displayName": "2023"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Actif"
+                    }
+                  },
+                  "Property": "2024"
+                }
+              },
+              "queryRef": "Actif.2024",
+              "nativeQueryRef": "2024",
+              "displayName": "2024"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Actif"
+                    }
+                  },
+                  "Property": "2025"
+                }
+              },
+              "queryRef": "Actif.2025",
+              "nativeQueryRef": "2025",
+              "displayName": "2025"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Actif — valeurs nettes en MDH'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "14D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

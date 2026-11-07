@@ -1,0 +1,117 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "fr_bfg",
+  "position": {
+    "x": 24,
+    "y": 120,
+    "z": 0,
+    "width": 1232,
+    "height": 300,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "lineChart",
+    "drillFilterOtherVisuals": true,
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "annee"
+                }
+              },
+              "queryRef": "Finance.annee",
+              "nativeQueryRef": "Année",
+              "displayName": "Année"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "FR"
+                }
+              },
+              "queryRef": "Finance.FR",
+              "nativeQueryRef": "FR",
+              "displayName": "FR"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "BFG"
+                }
+              },
+              "queryRef": "Finance.BFG",
+              "nativeQueryRef": "BFG",
+              "displayName": "BFG"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Finance"
+                    }
+                  },
+                  "Property": "Tresorerie nette"
+                }
+              },
+              "queryRef": "Finance.Tresorerie nette",
+              "nativeQueryRef": "Tresorerie nette",
+              "displayName": "Tresorerie nette"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'FR, BFG et trésorerie nette — MDH'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "14D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

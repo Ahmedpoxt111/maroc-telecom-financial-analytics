@@ -1,0 +1,10 @@
+PROJET DE DEVELOPPEMENT POWER BI - NON VALIDE DANS DESKTOP
+
+Ouvrir IAM.pbip en conservant IAM.Report et IAM.SemanticModel à côté.
+Les JSON internes ne sont pas des applications ni des pages web.
+Les définitions du rapport ont passé la validation des schémas Microsoft,
+mais le chargement, le rafraîchissement et l'affichage dans Power BI Desktop
+n'ont pas été validés. Aucun fichier PBIX final vérifié n'est fourni.
+
+Pour utiliser immédiatement les résultats, ouvrir ../dashboard.html
+ou ../../COMMENCER_ICI.html depuis le dossier décompressé du projet.

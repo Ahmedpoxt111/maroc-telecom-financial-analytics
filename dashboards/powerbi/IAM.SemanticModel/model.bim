@@ -1,0 +1,599 @@
+{
+  "name": "IAM",
+  "compatibilityLevel": 1567,
+  "model": {
+    "culture": "fr-FR",
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "fr-FR",
+    "tables": [
+      {
+        "name": "Finance",
+        "columns": [
+          {
+            "name": "annee",
+            "dataType": "int64",
+            "sourceColumn": "annee",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "ca",
+            "dataType": "double",
+            "sourceColumn": "ca",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "ebe",
+            "dataType": "double",
+            "sourceColumn": "ebe",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "valeur_ajoutee",
+            "dataType": "double",
+            "sourceColumn": "valeur_ajoutee",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "resultat_exploitation",
+            "dataType": "double",
+            "sourceColumn": "resultat_exploitation",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "resultat_financier",
+            "dataType": "double",
+            "sourceColumn": "resultat_financier",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "resultat_non_courant",
+            "dataType": "double",
+            "sourceColumn": "resultat_non_courant",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "resultat_net",
+            "dataType": "double",
+            "sourceColumn": "resultat_net",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "caf",
+            "dataType": "double",
+            "sourceColumn": "caf",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "autofinancement",
+            "dataType": "double",
+            "sourceColumn": "autofinancement",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "actif_total",
+            "dataType": "double",
+            "sourceColumn": "actif_total",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "capitaux_propres",
+            "dataType": "double",
+            "sourceColumn": "capitaux_propres",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "actif_immobilise",
+            "dataType": "double",
+            "sourceColumn": "actif_immobilise",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "actif_circulant",
+            "dataType": "double",
+            "sourceColumn": "actif_circulant",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "passif_circulant",
+            "dataType": "double",
+            "sourceColumn": "passif_circulant",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "financement_permanent",
+            "dataType": "double",
+            "sourceColumn": "financement_permanent",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "tresorerie_actif",
+            "dataType": "double",
+            "sourceColumn": "tresorerie_actif",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "tresorerie_passif",
+            "dataType": "double",
+            "sourceColumn": "tresorerie_passif",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "fr",
+            "dataType": "double",
+            "sourceColumn": "fr",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "bfg",
+            "dataType": "double",
+            "sourceColumn": "bfg",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "tresorerie_nette",
+            "dataType": "double",
+            "sourceColumn": "tresorerie_nette",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "marge_ebe",
+            "dataType": "double",
+            "sourceColumn": "marge_ebe",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "marge_nette",
+            "dataType": "double",
+            "sourceColumn": "marge_nette",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "autonomie",
+            "dataType": "double",
+            "sourceColumn": "autonomie",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "Finance",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "#table(type table [#\"annee\"=Int64.Type, #\"ca\"=number, #\"ebe\"=number, #\"valeur_ajoutee\"=number, #\"resultat_exploitation\"=number, #\"resultat_financier\"=number, #\"resultat_non_courant\"=number, #\"resultat_net\"=number, #\"caf\"=number, #\"autofinancement\"=number, #\"actif_total\"=number, #\"capitaux_propres\"=number, #\"actif_immobilise\"=number, #\"actif_circulant\"=number, #\"passif_circulant\"=number, #\"financement_permanent\"=number, #\"tresorerie_actif\"=number, #\"tresorerie_passif\"=number, #\"fr\"=number, #\"bfg\"=number, #\"tresorerie_nette\"=number, #\"marge_ebe\"=number, #\"marge_nette\"=number, #\"autonomie\"=number], {{2023, 18549.161, 10113.906, 12587.909, 7331.554, 1102.004, -989.637, 5423.755, 8954.339, 7029.405, 38476.876, 18797.719, 30355.155, 8033.009, 12614.112, 18824.962, 88.712, 7037.801, -11530.193, -4581.102999999999, -6949.089, 0.5452487042405854, 0.2923989392296503, 0.4885458736306971}, {2024, 18390.609, 10123.213, 12405.335, 7268.276, 1016.661, -6415.521, 1592.703, 4993.435, 1302.301, 39905.156, 16699.288, 31586.654, 8047.983, 11006.19, 16743.409, 270.518, 12155.557, -14843.244999999999, -2958.2070000000003, -11885.039, 0.5504555613139293, 0.08660414671422789, 0.41847444475596085}, {2025, 18131.524, 9863.099, 12177.939, 6539.241, -46.101, 1712.74, 5805.375, 10411.273, 9154.283, 40499.963, 21247.673, 32045.205, 8113.503, 14509.351, 24265.616, 341.255, 1724.996, -7779.589, -6395.848000000001, -1383.741, 0.5439751782585953, 0.32018130411983015, 0.5246343805301747}})"
+              ]
+            }
+          }
+        ],
+        "measures": [
+          {
+            "name": "CA",
+            "expression": "SUM(Finance[ca])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "CA exercice selectionne",
+            "expression": "CALCULATE([CA], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "EBE",
+            "expression": "SUM(Finance[ebe])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "EBE exercice selectionne",
+            "expression": "CALCULATE([EBE], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "CAF",
+            "expression": "SUM(Finance[caf])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "CAF exercice selectionne",
+            "expression": "CALCULATE([CAF], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Resultat net",
+            "expression": "SUM(Finance[resultat_net])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Resultat net exercice selectionne",
+            "expression": "CALCULATE([Resultat net], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Valeur ajoutee",
+            "expression": "SUM(Finance[valeur_ajoutee])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Valeur ajoutee exercice selectionne",
+            "expression": "CALCULATE([Valeur ajoutee], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "FR",
+            "expression": "SUM(Finance[fr])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "FR exercice selectionne",
+            "expression": "CALCULATE([FR], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "BFG",
+            "expression": "SUM(Finance[bfg])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "BFG exercice selectionne",
+            "expression": "CALCULATE([BFG], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Tresorerie nette",
+            "expression": "SUM(Finance[tresorerie_nette])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Tresorerie nette exercice selectionne",
+            "expression": "CALCULATE([Tresorerie nette], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Capitaux propres",
+            "expression": "SUM(Finance[capitaux_propres])",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Capitaux propres exercice selectionne",
+            "expression": "CALCULATE([Capitaux propres], Finance[annee] = MAX(Finance[annee]))",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Marge EBE",
+            "expression": "DIVIDE([EBE],[CA])",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "Marge nette",
+            "expression": "DIVIDE([Resultat net],[CA])",
+            "formatString": "0.0%"
+          }
+        ]
+      },
+      {
+        "name": "Actif",
+        "columns": [
+          {
+            "name": "Ordre",
+            "dataType": "int64",
+            "sourceColumn": "Ordre",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "Poste",
+            "dataType": "string",
+            "sourceColumn": "Poste",
+            "summarizeBy": "none",
+            "sortByColumn": "Ordre"
+          },
+          {
+            "name": "2023",
+            "dataType": "double",
+            "sourceColumn": "2023",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2024",
+            "dataType": "double",
+            "sourceColumn": "2024",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2025",
+            "dataType": "double",
+            "sourceColumn": "2025",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Page",
+            "dataType": "int64",
+            "sourceColumn": "Page",
+            "summarizeBy": "none",
+            "formatString": "0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "Actif",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "#table(type table [#\"Ordre\"=Int64.Type, #\"Poste\"=text, #\"2023\"=number, #\"2024\"=number, #\"2025\"=number, #\"Page\"=Int64.Type], {{1, \"Immobilisations en non-valeurs\", 860.0, 420.0, 280.0, 233}, {2, \"Frais préliminaires\", 0.0, 0.0, 0.0, 233}, {3, \"Charges à répartir sur plusieurs exercices\", 860.0, 420.0, 280.0, 233}, {4, \"Primes de remboursement des obligations\", 0.0, 0.0, 0.0, 233}, {5, \"Immobilisations incorporelles\", 1873.67, 2020.092, 2994.429, 233}, {6, \"Immobilisations en recherche et développement\", 0.0, 0.0, 0.0, 233}, {7, \"Brevets, marques, droits et valeurs similaires\", 1611.158, 1619.634, 2427.985, 233}, {8, \"Fonds commercial\", 0.0, 0.739, 0.559, 233}, {9, \"Autres immobilisations incorporelles\", 262.511, 399.719, 565.885, 233}, {10, \"Immobilisations corporelles\", 15031.894, 15081.071, 16479.908, 233}, {11, \"Terrains\", 961.935, 964.249, 964.249, 233}, {12, \"Constructions\", 2496.055, 2452.562, 2400.906, 233}, {13, \"Installations techniques, matériel et outillage\", 9608.18, 9546.134, 10082.595, 233}, {14, \"Matériel de transport\", 155.576, 147.398, 149.163, 233}, {15, \"Mobilier, matériel de bureau et aménagements divers\", 314.429, 342.128, 281.108, 233}, {16, \"Autres immobilisations corporelles\", 11.048, 11.048, 11.048, 233}, {17, \"Immobilisations corporelles en cours\", 1484.671, 1617.553, 2590.84, 233}, {18, \"Immobilisations financières\", 12587.454, 14032.053, 12287.26, 233}, {19, \"Prêts immobilisés\", 14.452, 1461.051, 70.511, 233}, {20, \"Autres créances financières\", 4.234, 4.345, 4.397, 233}, {21, \"Titres de participation\", 12509.768, 12566.657, 12212.352, 233}, {22, \"Autres titres immobilisés\", 0.0, 0.0, 0.0, 233}, {23, \"Écart de conversion actif immobilisé\", 2.138, 33.438, 3.607, 233}, {24, \"Total actif immobilisé net\", 30355.155, 31586.654, 32045.205, 233}, {25, \"Stocks\", 351.437, 179.941, 274.538, 233}, {26, \"Marchandises\", 222.897, 106.954, 203.589, 233}, {27, \"Matières et fournitures consommables\", 128.54, 72.988, 70.949, 233}, {28, \"Produits en cours\", 0.0, 0.0, 0.0, 233}, {29, \"Produits intermédiaires et résiduels\", 0.0, 0.0, 0.0, 233}, {30, \"Produits finis\", 0.0, 0.0, 0.0, 233}, {31, \"Créances de l'actif circulant\", 7518.484, 7688.853, 7676.39, 233}, {32, \"Fournisseurs débiteurs, avances et acomptes\", 19.269, 39.27, 29.917, 233}, {33, \"Clients et comptes rattachés\", 7026.003, 6543.082, 6927.368, 233}, {34, \"Personnel\", 3.814, 3.811, 3.861, 233}, {35, \"État\", 396.066, 1016.64, 300.138, 233}, {36, \"Comptes d'associés\", 0.0, 0.0, 0.0, 233}, {37, \"Autres débiteurs\", 41.649, 33.178, 358.137, 233}, {38, \"Comptes de régularisation actif\", 31.683, 52.872, 56.968, 233}, {39, \"Titres et valeurs de placement\", 131.207, 132.153, 139.571, 233}, {40, \"Écart de conversion actif circulant\", 31.881, 47.036, 23.004, 233}, {41, \"Total actif circulant hors trésorerie\", 8033.009, 8047.983, 8113.503, 233}, {42, \"Banques, TG et CCP\", 86.582, 268.529, 339.477, 233}, {43, \"Caisses, régies d'avances et accréditifs\", 2.13, 1.989, 1.778, 233}, {44, \"Total trésorerie actif\", 88.712, 270.518, 341.255, 233}, {45, \"TOTAL ACTIF NET\", 38476.876, 39905.156, 40499.963, 233}})"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Passif",
+        "columns": [
+          {
+            "name": "Ordre",
+            "dataType": "int64",
+            "sourceColumn": "Ordre",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "Poste",
+            "dataType": "string",
+            "sourceColumn": "Poste",
+            "summarizeBy": "none",
+            "sortByColumn": "Ordre"
+          },
+          {
+            "name": "2023",
+            "dataType": "double",
+            "sourceColumn": "2023",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2024",
+            "dataType": "double",
+            "sourceColumn": "2024",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2025",
+            "dataType": "double",
+            "sourceColumn": "2025",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Page",
+            "dataType": "int64",
+            "sourceColumn": "Page",
+            "summarizeBy": "none",
+            "formatString": "0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "Passif",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "#table(type table [#\"Ordre\"=Int64.Type, #\"Poste\"=text, #\"2023\"=number, #\"2024\"=number, #\"2025\"=number, #\"Page\"=Int64.Type], {{1, \"Capitaux propres\", 18797.719, 16699.288, 21247.673, 234}, {2, \"Capital social\", 5274.572, 5274.572, 5274.572, 234}, {3, \"Réserve légale\", 527.457, 527.457, 527.457, 234}, {4, \"Autres réserves\", 7571.935, 9304.556, 9640.269, 234}, {5, \"Report à nouveau\", 0.0, 0.0, 0.0, 234}, {6, \"Résultat net en instance d'affectation\", 0.0, 0.0, 0.0, 234}, {7, \"Résultat net de l'exercice\", 5423.755, 1592.703, 5805.375, 234}, {8, \"Capitaux propres assimilés\", 0.0, 0.0, 0.0, 234}, {9, \"Dettes de financement\", 15.188, 1.494, 3001.494, 234}, {10, \"Emprunts obligataires\", 0.0, 0.0, 3000.0, 234}, {11, \"Autres dettes de financement\", 15.188, 1.494, 1.494, 234}, {12, \"Provisions durables pour risques et charges\", 12.055, 42.627, 12.054, 234}, {13, \"Provisions pour risques\", 2.138, 33.438, 3.607, 234}, {14, \"Provisions pour charges\", 9.918, 9.189, 8.447, 234}, {15, \"Écart de conversion passif permanent\", 0.0, 0.0, 4.395, 234}, {16, \"Total financement permanent\", 18824.962, 16743.409, 24265.616, 234}, {17, \"Dettes du passif circulant\", 11794.057, 10718.68, 14043.527, 234}, {18, \"Fournisseurs et comptes rattachés\", 5676.301, 4719.132, 6042.746, 234}, {19, \"Clients créditeurs, avances et acomptes\", 126.46, 89.401, 112.906, 234}, {20, \"Personnel\", 1041.265, 981.57, 973.807, 234}, {21, \"Organismes sociaux\", 109.811, 98.744, 104.517, 234}, {22, \"État\", 2714.892, 2530.837, 4178.122, 234}, {23, \"Comptes d'associés\", 0.0, 0.0, 0.0, 234}, {24, \"Autres créanciers\", 395.226, 391.389, 875.005, 234}, {25, \"Comptes de régularisation passif\", 1730.102, 1907.606, 1756.424, 234}, {26, \"Autres provisions pour risques et charges\", 747.31, 224.576, 338.685, 234}, {27, \"Écart de conversion passif circulant\", 72.745, 62.934, 127.139, 234}, {28, \"Total passif circulant hors trésorerie\", 12614.112, 11006.19, 14509.351, 234}, {29, \"Crédit d'escompte\", 0.0, 0.0, 0.0, 234}, {30, \"Crédit de trésorerie\", 0.0, 0.0, 0.0, 234}, {31, \"Banques, soldes créditeurs\", 7037.801, 12155.557, 1724.996, 234}, {32, \"Total trésorerie passif\", 7037.801, 12155.557, 1724.996, 234}, {33, \"TOTAL PASSIF\", 38476.876, 39905.156, 40499.963, 234}})"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "CPC",
+        "columns": [
+          {
+            "name": "Ordre",
+            "dataType": "int64",
+            "sourceColumn": "Ordre",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "Poste",
+            "dataType": "string",
+            "sourceColumn": "Poste",
+            "summarizeBy": "none",
+            "sortByColumn": "Ordre"
+          },
+          {
+            "name": "2023",
+            "dataType": "double",
+            "sourceColumn": "2023",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2024",
+            "dataType": "double",
+            "sourceColumn": "2024",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2025",
+            "dataType": "double",
+            "sourceColumn": "2025",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Page",
+            "dataType": "int64",
+            "sourceColumn": "Page",
+            "summarizeBy": "none",
+            "formatString": "0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "CPC",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "#table(type table [#\"Ordre\"=Int64.Type, #\"Poste\"=text, #\"2023\"=number, #\"2024\"=number, #\"2025\"=number, #\"Page\"=Int64.Type], {{1, \"Produits d'exploitation\", 19143.768, 18762.242, 18322.24, 235}, {2, \"Ventes de marchandises\", 379.585, 294.575, 260.592, 235}, {3, \"Ventes de biens et services produits\", 18169.576, 18096.034, 17870.932, 235}, {4, \"Chiffre d'affaires\", 18549.161, 18390.609, 18131.524, 235}, {5, \"Variation des stocks de produits\", 0.0, 0.0, 0.0, 235}, {6, \"Immobilisations produites pour l'entreprise\", 0.0, 0.0, 0.0, 235}, {7, \"Subventions d'exploitation\", 0.0, 0.0, 0.0, 235}, {8, \"Autres produits d'exploitation\", 22.911, 38.864, 30.677, 235}, {9, \"Reprises d'exploitation et transferts de charges\", 571.696, 332.769, 160.039, 235}, {10, \"Charges d'exploitation\", 11812.214, 11493.966, 11782.999, 235}, {11, \"Achats revendus de marchandises\", 392.216, 415.78, 288.855, 235}, {12, \"Achats consommés de matières et fournitures\", 3049.651, 2877.083, 2798.412, 235}, {13, \"Autres charges externes\", 2519.384, 2692.41, 2866.318, 235}, {14, \"Impôts et taxes\", 366.471, 333.545, 298.152, 235}, {15, \"Charges de personnel\", 2107.533, 1948.577, 2016.688, 235}, {16, \"Autres charges d'exploitation\", 2.53, 2.54, 2.54, 235}, {17, \"Dotations d'exploitation aux amortissements\", 3074.74, 2918.943, 2891.883, 235}, {18, \"Dotations d'exploitation aux provisions\", 299.689, 305.088, 620.151, 235}, {19, \"Résultat d'exploitation\", 7331.554, 7268.276, 6539.241, 235}, {20, \"Produits financiers\", 1691.768, 1741.536, 1702.429, 235}, {21, \"Produits des titres de participation\", 1308.086, 1357.213, 1166.584, 235}, {22, \"Gains de change\", 315.121, 326.342, 380.561, 235}, {23, \"Intérêts et autres produits financiers\", 13.383, 23.963, 74.81, 235}, {24, \"Reprises financières et transferts de charges\", 55.178, 34.019, 80.474, 235}, {25, \"Charges financières\", 589.764, 724.876, 1748.53, 236}, {26, \"Charges d'intérêts\", 294.036, 390.319, 308.603, 236}, {27, \"Pertes de change\", 258.682, 253.098, 239.837, 236}, {28, \"Autres charges financières\", 3.027, 0.984, 0.034, 236}, {29, \"Dotations financières\", 34.019, 80.474, 1200.057, 236}, {30, \"Résultat financier\", 1102.004, 1016.661, -46.101, 236}, {31, \"Résultat courant\", 8433.558, 8284.936, 6493.14, 236}, {32, \"Produits non courants\", 1186.497, 1082.214, 2716.949, 236}, {33, \"Produits des cessions d'immobilisations\", 2.771, 4.197, 18.71, 236}, {34, \"Subventions d'équilibre\", 0.0, 0.0, 0.0, 236}, {35, \"Reprises sur subventions d'investissement\", 0.0, 0.0, 0.0, 236}, {36, \"Autres produits non courants\", 315.466, 412.193, 2547.828, 236}, {37, \"Reprises non courantes et transferts de charges\", 868.261, 665.824, 150.411, 236}, {38, \"Charges non courantes\", 2176.134, 7497.734, 1004.209, 236}, {39, \"VNA des immobilisations cédées\", 0.274, 0.113, 444.75, 236}, {40, \"Subventions accordées\", 0.0, 0.0, 0.0, 236}, {41, \"Autres charges non courantes\", 1049.157, 6871.495, 144.988, 236}, {42, \"Dotations réglementées\", 0.0, 0.0, 0.0, 236}, {43, \"Dotations non courantes aux amortissements et provisions\", 1126.704, 626.126, 414.471, 236}, {44, \"Résultat non courant\", -989.637, -6415.521, 1712.74, 236}, {45, \"Résultat avant impôts\", 7443.92, 1869.416, 8205.88, 236}, {46, \"Impôt sur les sociétés\", 2020.165, 276.712, 2400.505, 236}, {47, \"Résultat net\", 5423.755, 1592.703, 5805.375, 236}, {48, \"Total des produits\", 22022.033, 21585.992, 22741.618, 236}, {49, \"Total des charges\", 16598.278, 19993.289, 16936.243, 236}})"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "ESG",
+        "columns": [
+          {
+            "name": "Ordre",
+            "dataType": "int64",
+            "sourceColumn": "Ordre",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "Poste",
+            "dataType": "string",
+            "sourceColumn": "Poste",
+            "summarizeBy": "none",
+            "sortByColumn": "Ordre"
+          },
+          {
+            "name": "2023",
+            "dataType": "double",
+            "sourceColumn": "2023",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2024",
+            "dataType": "double",
+            "sourceColumn": "2024",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2025",
+            "dataType": "double",
+            "sourceColumn": "2025",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Page",
+            "dataType": "int64",
+            "sourceColumn": "Page",
+            "summarizeBy": "none",
+            "formatString": "0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "ESG",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "#table(type table [#\"Ordre\"=Int64.Type, #\"Poste\"=text, #\"2023\"=number, #\"2024\"=number, #\"2025\"=number, #\"Page\"=Int64.Type], {{1, \"Ventes de marchandises\", 379.585, 294.575, 260.592, 237}, {2, \"Achats revendus de marchandises\", 392.216, 415.78, 288.855, 237}, {3, \"Marge brute sur ventes en l'état\", -12.632, -121.205, -28.263, 237}, {4, \"Production de l'exercice\", 18169.576, 18096.034, 17870.932, 237}, {5, \"Ventes de biens et services produits\", 18169.576, 18096.034, 17870.932, 237}, {6, \"Variation des stocks de produits\", 0.0, 0.0, 0.0, 237}, {7, \"Immobilisations produites pour l'entreprise\", 0.0, 0.0, 0.0, 237}, {8, \"Consommation de l'exercice\", 5569.035, 5569.493, 5664.73, 237}, {9, \"Achats consommés de matières et fournitures\", 3049.651, 2877.083, 2798.412, 237}, {10, \"Autres charges externes\", 2519.384, 2692.41, 2866.318, 237}, {11, \"Valeur ajoutée\", 12587.909, 12405.335, 12177.939, 237}, {12, \"Subventions d'exploitation\", 0.0, 0.0, 0.0, 237}, {13, \"Impôts et taxes\", 366.471, 333.545, 298.152, 237}, {14, \"Charges de personnel\", 2107.533, 1948.577, 2016.688, 237}, {15, \"Excédent brut d'exploitation (EBE)\", 10113.906, 10123.213, 9863.099, 237}, {16, \"Autres produits d'exploitation\", 22.911, 38.864, 30.677, 237}, {17, \"Autres charges d'exploitation\", 2.53, 2.54, 2.54, 237}, {18, \"Reprises d'exploitation et transferts de charges\", 571.696, 332.769, 160.039, 237}, {19, \"Dotations d'exploitation\", 3374.428, 3224.031, 3512.034, 237}, {20, \"Résultat d'exploitation\", 7331.554, 7268.276, 6539.241, 237}, {21, \"Résultat financier\", 1102.004, 1016.661, -46.101, 237}, {22, \"Résultat courant\", 8433.558, 8284.936, 6493.14, 237}, {23, \"Résultat non courant\", -989.637, -6415.521, 1712.74, 237}, {24, \"Impôts sur les résultats\", 2020.165, 276.712, 2400.505, 237}, {25, \"Résultat net de l'exercice\", 5423.755, 1592.703, 5805.375, 237}})"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "CAF",
+        "columns": [
+          {
+            "name": "Ordre",
+            "dataType": "int64",
+            "sourceColumn": "Ordre",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "Poste",
+            "dataType": "string",
+            "sourceColumn": "Poste",
+            "summarizeBy": "none",
+            "sortByColumn": "Ordre"
+          },
+          {
+            "name": "2023",
+            "dataType": "double",
+            "sourceColumn": "2023",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2024",
+            "dataType": "double",
+            "sourceColumn": "2024",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "2025",
+            "dataType": "double",
+            "sourceColumn": "2025",
+            "summarizeBy": "none",
+            "formatString": "#,0.0;(#,0.0);-"
+          },
+          {
+            "name": "Page",
+            "dataType": "int64",
+            "sourceColumn": "Page",
+            "summarizeBy": "none",
+            "formatString": "0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "CAF",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "#table(type table [#\"Ordre\"=Int64.Type, #\"Poste\"=text, #\"2023\"=number, #\"2024\"=number, #\"2025\"=number, #\"Page\"=Int64.Type], {{1, \"Résultat net de l'exercice\", 5423.755, 1592.703, 5805.375, 237}, {2, \"Dotations d'exploitation éligibles CAF\", 3074.74, 2918.943, 2891.883, 237}, {3, \"Dotations financières éligibles CAF\", 2.138, 33.438, 1153.581, 237}, {4, \"Dotations non courantes éligibles CAF\", 626.704, 621.126, 318.984, 237}, {5, \"Reprises d'exploitation éligibles CAF\", 0.784, 0.729, 0.742, 237}, {6, \"Reprises financières éligibles CAF\", 1.455, 2.138, 33.438, 237}, {7, \"Reprises non courantes éligibles CAF\", 168.261, 165.824, 150.411, 237}, {8, \"Produits de cessions d'immobilisations\", 2.771, 4.197, 18.71, 237}, {9, \"VNA des immobilisations cédées\", 0.274, 0.113, 444.75, 237}, {10, \"Capacité d'autofinancement (CAF)\", 8954.339, 4993.435, 10411.273, 237}, {11, \"Distribution de bénéfices\", 1924.934, 3691.135, 1256.99, 237}, {12, \"Autofinancement\", 7029.405, 1302.301, 9154.283, 237}})"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Finance\", \"Actif\", \"Passif\", \"CPC\", \"ESG\", \"CAF\"]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "passif",
+  "position": {
+    "x": 650,
+    "y": 120,
+    "z": 0,
+    "width": 606,
+    "height": 645,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Passif"
+                    }
+                  },
+                  "Property": "Ordre"
+                }
+              },
+              "queryRef": "Passif.Ordre",
+              "nativeQueryRef": "Ordre",
+              "displayName": "Ordre"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Passif"
+                    }
+                  },
+                  "Property": "Poste"
+                }
+              },
+              "queryRef": "Passif.Poste",
+              "nativeQueryRef": "Poste",
+              "displayName": "Poste"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Passif"
+                    }
+                  },
+                  "Property": "2023"
+                }
+              },
+              "queryRef": "Passif.2023",
+              "nativeQueryRef": "2023",
+              "displayName": "2023"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Passif"
+                    }
+                  },
+                  "Property": "2024"
+                }
+              },
+              "queryRef": "Passif.2024",
+              "nativeQueryRef": "2024",
+              "displayName": "2024"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Passif"
+                    }
+                  },
+                  "Property": "2025"
+                }
+              },
+              "queryRef": "Passif.2025",
+              "nativeQueryRef": "2025",
+              "displayName": "2025"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Passif — valeurs nettes en MDH'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "14D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+python -m src.pipeline
+États sociaux : 492 observations, 45 contrôles, 0 écarts hors tolérance.
+
+Pipeline OK : CSV, SQLite, graphiques SVG, états sociaux et dashboard générés.
+
+
+
+python -m unittest discover -s tests -v
+test_balance (test_model.ModelTests.test_balance) ... ok
+
+test_constant_cashflow (test_model.ModelTests.test_constant_cashflow) ... ok
+
+test_forecast_and_dcf (test_model.ModelTests.test_forecast_and_dcf) ... ok
+
+test_outputs (test_model.ModelTests.test_outputs) ... ok
+
+test_reconciliations (test_model.ModelTests.test_reconciliations) ... ok
+
+test_source_integrity (test_model.ModelTests.test_source_integrity) ... ok
+
+test_financing (test_reader_report.ReadableReportTests.test_financing) ... ok
+
+test_ratio_labels_and_values (test_reader_report.ReadableReportTests.test_ratio_labels_and_values) ... ok
+
+test_report_contains_every_statement (test_reader_report.ReadableReportTests.test_report_contains_every_statement) ... ok
+
+test_all_reconciliations (test_statements.StatementTests.test_all_reconciliations) ... ok
+
+test_dashboard_and_powerbi_values (test_statements.StatementTests.test_dashboard_and_powerbi_values) ... ok
+
+test_published_controls (test_statements.StatementTests.test_published_controls) ... ok
+
+test_rounding_preserved (test_statements.StatementTests.test_rounding_preserved) ... ok
+
+test_scope_units_unique (test_statements.StatementTests.test_scope_units_unique) ... ok
+
+test_sql_and_csv_consistent (test_statements.StatementTests.test_sql_and_csv_consistent) ... ok
+
+
+
+----------------------------------------------------------------------
+
+Ran 15 tests in 0.098s
+
+
+
+OK
+
+
+
+python scripts/validate_notebook.py
+Structure et syntaxe du notebook valides. Exécution Jupyter : scripts/execute_notebook.py.
+
+
+
+Excel : 10 onglets, 19 ratios en formules, 2 graphiques natifs. Aucune cellule erreur dans le fichier exporté. Recalcul vérifié dans le moteur Artifact Tool; vues contrôlées visuellement. Non testé dans Microsoft Excel natif.
+
+États sociaux : 45 rapprochements à tolérance 0,005 MDH; total actif = passif exact. Tableau de financement équilibré. 15 tests réussis. Power BI : schémas PBIR contrôlés, affichage Desktop non validé. Dashboard HTML : code des vues exécuté sans navigateur; aucun aperçu navigateur revendiqué.
+
+Rapport PDF : 5 pages rendues et contrôlées visuellement. Présentation noir, blanc et gris. États sociaux résumés, 19 ratios avec formules et explications, conclusion. ETIC référencé dans la source officielle.
+
+Jupyter : exécution réelle du noyau Python 3.12.14. 16 cellules de code exécutées sans erreur, sorties enregistrées. Deux exécutions : dossier notebooks puis ZIP extrait dans un chemin avec espaces. Tableaux CSV identiques après recalcul. Export HTML autonome avec tableaux et SVG intégrés. Versions : {"nbformat": "5.11.1", "nbclient": "0.11.0", "nbconvert": "7.17.2", "ipykernel": "7.4.0"}.

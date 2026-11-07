@@ -1,0 +1,46 @@
+annee,controle,ecart_mdh,tolerance_mdh,resultat,statut
+2023,Total actif - total passif,0.0,0.005,OK,calculated
+2023,Actif immobilisé + circulant + trésorerie - total,0.0,0.005,OK,calculated
+2023,Financement permanent + passif circulant + trésorerie - total,-0.001,0.005,OK,calculated
+2023,Produits exploitation - charges exploitation - résultat,0.0,0.005,OK,calculated
+2023,Produits financiers - charges financières - résultat,0.0,0.005,OK,calculated
+2023,Résultat exploitation + financier - courant,0.0,0.005,OK,calculated
+2023,Produits non courants - charges non courantes - résultat,0.0,0.005,OK,calculated
+2023,Résultat avant impôts - IS - résultat net,0.0,0.005,OK,calculated
+2023,Marge brute calculée - publiée,0.001,0.005,OK,calculated
+2023,Valeur ajoutée calculée - publiée,0.0,0.005,OK,calculated
+2023,EBE calculé - publié,-0.001,0.005,OK,calculated
+2023,CAF calculée - publiée,0.001,0.005,OK,calculated
+2023,CAF - distributions - autofinancement,0.0,0.005,OK,calculated
+2023,FR - BFG - trésorerie nette,-0.001,0.005,OK,calculated
+2023,Résultat net CPC - résultat net ESG,0.0,0.005,OK,calculated
+2024,Total actif - total passif,0.0,0.005,OK,calculated
+2024,Actif immobilisé + circulant + trésorerie - total,-0.001,0.005,OK,calculated
+2024,Financement permanent + passif circulant + trésorerie - total,0.0,0.005,OK,calculated
+2024,Produits exploitation - charges exploitation - résultat,-0.0,0.005,OK,calculated
+2024,Produits financiers - charges financières - résultat,-0.001,0.005,OK,calculated
+2024,Résultat exploitation + financier - courant,0.001,0.005,OK,calculated
+2024,Produits non courants - charges non courantes - résultat,0.001,0.005,OK,calculated
+2024,Résultat avant impôts - IS - résultat net,0.001,0.005,OK,calculated
+2024,Marge brute calculée - publiée,0.0,0.005,OK,calculated
+2024,Valeur ajoutée calculée - publiée,0.001,0.005,OK,calculated
+2024,EBE calculé - publié,0.0,0.005,OK,calculated
+2024,CAF calculée - publiée,0.0,0.005,OK,calculated
+2024,CAF - distributions - autofinancement,-0.001,0.005,OK,calculated
+2024,FR - BFG - trésorerie nette,0.001,0.005,OK,calculated
+2024,Résultat net CPC - résultat net ESG,0.0,0.005,OK,calculated
+2025,Total actif - total passif,0.0,0.005,OK,calculated
+2025,Actif immobilisé + circulant + trésorerie - total,-0.0,0.005,OK,calculated
+2025,Financement permanent + passif circulant + trésorerie - total,0.0,0.005,OK,calculated
+2025,Produits exploitation - charges exploitation - résultat,0.0,0.005,OK,calculated
+2025,Produits financiers - charges financières - résultat,0.0,0.005,OK,calculated
+2025,Résultat exploitation + financier - courant,0.0,0.005,OK,calculated
+2025,Produits non courants - charges non courantes - résultat,0.0,0.005,OK,calculated
+2025,Résultat avant impôts - IS - résultat net,-0.0,0.005,OK,calculated
+2025,Marge brute calculée - publiée,-0.0,0.005,OK,calculated
+2025,Valeur ajoutée calculée - publiée,0.0,0.005,OK,calculated
+2025,EBE calculé - publié,0.0,0.005,OK,calculated
+2025,CAF calculée - publiée,-0.001,0.005,OK,calculated
+2025,CAF - distributions - autofinancement,0.0,0.005,OK,calculated
+2025,FR - BFG - trésorerie nette,0.0,0.005,OK,calculated
+2025,Résultat net CPC - résultat net ESG,0.0,0.005,OK,calculated

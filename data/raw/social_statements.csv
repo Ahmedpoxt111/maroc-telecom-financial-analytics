@@ -1,0 +1,493 @@
+entity,basis,statement,order,code,label,year,value,unit,row_type,status,source_id,page
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,1,A,Immobilisations en non-valeurs,2023,860000,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,1,A,Immobilisations en non-valeurs,2024,420000,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,1,A,Immobilisations en non-valeurs,2025,280000,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,2,A1,Frais préliminaires,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,2,A1,Frais préliminaires,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,2,A1,Frais préliminaires,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,3,A2,Charges à répartir sur plusieurs exercices,2023,860000,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,3,A2,Charges à répartir sur plusieurs exercices,2024,420000,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,3,A2,Charges à répartir sur plusieurs exercices,2025,280000,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,4,A3,Primes de remboursement des obligations,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,4,A3,Primes de remboursement des obligations,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,4,A3,Primes de remboursement des obligations,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,5,B,Immobilisations incorporelles,2023,1873670,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,5,B,Immobilisations incorporelles,2024,2020092,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,5,B,Immobilisations incorporelles,2025,2994429,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,6,B1,Immobilisations en recherche et développement,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,6,B1,Immobilisations en recherche et développement,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,6,B1,Immobilisations en recherche et développement,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,7,B2,"Brevets, marques, droits et valeurs similaires",2023,1611158,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,7,B2,"Brevets, marques, droits et valeurs similaires",2024,1619634,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,7,B2,"Brevets, marques, droits et valeurs similaires",2025,2427985,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,8,B3,Fonds commercial,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,8,B3,Fonds commercial,2024,739,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,8,B3,Fonds commercial,2025,559,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,9,B4,Autres immobilisations incorporelles,2023,262511,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,9,B4,Autres immobilisations incorporelles,2024,399719,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,9,B4,Autres immobilisations incorporelles,2025,565885,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,10,C,Immobilisations corporelles,2023,15031894,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,10,C,Immobilisations corporelles,2024,15081071,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,10,C,Immobilisations corporelles,2025,16479908,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,11,C1,Terrains,2023,961935,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,11,C1,Terrains,2024,964249,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,11,C1,Terrains,2025,964249,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,12,C2,Constructions,2023,2496055,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,12,C2,Constructions,2024,2452562,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,12,C2,Constructions,2025,2400906,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,13,C3,"Installations techniques, matériel et outillage",2023,9608180,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,13,C3,"Installations techniques, matériel et outillage",2024,9546134,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,13,C3,"Installations techniques, matériel et outillage",2025,10082595,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,14,C4,Matériel de transport,2023,155576,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,14,C4,Matériel de transport,2024,147398,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,14,C4,Matériel de transport,2025,149163,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,15,C5,"Mobilier, matériel de bureau et aménagements divers",2023,314429,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,15,C5,"Mobilier, matériel de bureau et aménagements divers",2024,342128,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,15,C5,"Mobilier, matériel de bureau et aménagements divers",2025,281108,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,16,C6,Autres immobilisations corporelles,2023,11048,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,16,C6,Autres immobilisations corporelles,2024,11048,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,16,C6,Autres immobilisations corporelles,2025,11048,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,17,C7,Immobilisations corporelles en cours,2023,1484671,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,17,C7,Immobilisations corporelles en cours,2024,1617553,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,17,C7,Immobilisations corporelles en cours,2025,2590840,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,18,D,Immobilisations financières,2023,12587454,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,18,D,Immobilisations financières,2024,14032053,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,18,D,Immobilisations financières,2025,12287260,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,19,D1,Prêts immobilisés,2023,14452,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,19,D1,Prêts immobilisés,2024,1461051,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,19,D1,Prêts immobilisés,2025,70511,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,20,D2,Autres créances financières,2023,4234,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,20,D2,Autres créances financières,2024,4345,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,20,D2,Autres créances financières,2025,4397,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,21,D3,Titres de participation,2023,12509768,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,21,D3,Titres de participation,2024,12566657,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,21,D3,Titres de participation,2025,12212352,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,22,D4,Autres titres immobilisés,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,22,D4,Autres titres immobilisés,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,22,D4,Autres titres immobilisés,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,23,E,Écart de conversion actif immobilisé,2023,2138,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,23,E,Écart de conversion actif immobilisé,2024,33438,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,23,E,Écart de conversion actif immobilisé,2025,3607,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,24,I,Total actif immobilisé net,2023,30355155,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,24,I,Total actif immobilisé net,2024,31586654,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,24,I,Total actif immobilisé net,2025,32045205,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,25,F,Stocks,2023,351437,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,25,F,Stocks,2024,179941,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,25,F,Stocks,2025,274538,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,26,F1,Marchandises,2023,222897,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,26,F1,Marchandises,2024,106954,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,26,F1,Marchandises,2025,203589,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,27,F2,Matières et fournitures consommables,2023,128540,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,27,F2,Matières et fournitures consommables,2024,72988,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,27,F2,Matières et fournitures consommables,2025,70949,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,28,F3,Produits en cours,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,28,F3,Produits en cours,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,28,F3,Produits en cours,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,29,F4,Produits intermédiaires et résiduels,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,29,F4,Produits intermédiaires et résiduels,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,29,F4,Produits intermédiaires et résiduels,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,30,F5,Produits finis,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,30,F5,Produits finis,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,30,F5,Produits finis,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,31,G,Créances de l'actif circulant,2023,7518484,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,31,G,Créances de l'actif circulant,2024,7688853,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,31,G,Créances de l'actif circulant,2025,7676390,thousand_MAD,subtotal,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,32,G1,"Fournisseurs débiteurs, avances et acomptes",2023,19269,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,32,G1,"Fournisseurs débiteurs, avances et acomptes",2024,39270,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,32,G1,"Fournisseurs débiteurs, avances et acomptes",2025,29917,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,33,G2,Clients et comptes rattachés,2023,7026003,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,33,G2,Clients et comptes rattachés,2024,6543082,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,33,G2,Clients et comptes rattachés,2025,6927368,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,34,G3,Personnel,2023,3814,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,34,G3,Personnel,2024,3811,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,34,G3,Personnel,2025,3861,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,35,G4,État,2023,396066,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,35,G4,État,2024,1016640,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,35,G4,État,2025,300138,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,36,G5,Comptes d'associés,2023,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,36,G5,Comptes d'associés,2024,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,36,G5,Comptes d'associés,2025,0,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,37,G6,Autres débiteurs,2023,41649,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,37,G6,Autres débiteurs,2024,33178,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,37,G6,Autres débiteurs,2025,358137,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,38,G7,Comptes de régularisation actif,2023,31683,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,38,G7,Comptes de régularisation actif,2024,52872,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,38,G7,Comptes de régularisation actif,2025,56968,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,39,H,Titres et valeurs de placement,2023,131207,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,39,H,Titres et valeurs de placement,2024,132153,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,39,H,Titres et valeurs de placement,2025,139571,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,40,J,Écart de conversion actif circulant,2023,31881,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,40,J,Écart de conversion actif circulant,2024,47036,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,40,J,Écart de conversion actif circulant,2025,23004,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,41,II,Total actif circulant hors trésorerie,2023,8033009,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,41,II,Total actif circulant hors trésorerie,2024,8047983,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,41,II,Total actif circulant hors trésorerie,2025,8113503,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,42,T1,"Banques, TG et CCP",2023,86582,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,42,T1,"Banques, TG et CCP",2024,268529,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,42,T1,"Banques, TG et CCP",2025,339477,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,43,T2,"Caisses, régies d'avances et accréditifs",2023,2130,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,43,T2,"Caisses, régies d'avances et accréditifs",2024,1989,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,43,T2,"Caisses, régies d'avances et accréditifs",2025,1778,thousand_MAD,detail,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,44,III,Total trésorerie actif,2023,88712,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,44,III,Total trésorerie actif,2024,270518,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,44,III,Total trésorerie actif,2025,341255,thousand_MAD,total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,45,TOTAL,TOTAL ACTIF NET,2023,38476876,thousand_MAD,grand_total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,45,TOTAL,TOTAL ACTIF NET,2024,39905156,thousand_MAD,grand_total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan actif,45,TOTAL,TOTAL ACTIF NET,2025,40499963,thousand_MAD,grand_total,reported,S4,233
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,1,A,Capitaux propres,2023,18797719,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,1,A,Capitaux propres,2024,16699288,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,1,A,Capitaux propres,2025,21247673,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,2,A1,Capital social,2023,5274572,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,2,A1,Capital social,2024,5274572,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,2,A1,Capital social,2025,5274572,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,3,A2,Réserve légale,2023,527457,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,3,A2,Réserve légale,2024,527457,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,3,A2,Réserve légale,2025,527457,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,4,A3,Autres réserves,2023,7571935,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,4,A3,Autres réserves,2024,9304556,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,4,A3,Autres réserves,2025,9640269,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,5,A4,Report à nouveau,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,5,A4,Report à nouveau,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,5,A4,Report à nouveau,2025,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,6,A5,Résultat net en instance d'affectation,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,6,A5,Résultat net en instance d'affectation,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,6,A5,Résultat net en instance d'affectation,2025,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,7,A6,Résultat net de l'exercice,2023,5423755,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,7,A6,Résultat net de l'exercice,2024,1592703,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,7,A6,Résultat net de l'exercice,2025,5805375,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,8,B,Capitaux propres assimilés,2023,0,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,8,B,Capitaux propres assimilés,2024,0,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,8,B,Capitaux propres assimilés,2025,0,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,9,C,Dettes de financement,2023,15188,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,9,C,Dettes de financement,2024,1494,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,9,C,Dettes de financement,2025,3001494,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,10,C1,Emprunts obligataires,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,10,C1,Emprunts obligataires,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,10,C1,Emprunts obligataires,2025,3000000,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,11,C2,Autres dettes de financement,2023,15188,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,11,C2,Autres dettes de financement,2024,1494,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,11,C2,Autres dettes de financement,2025,1494,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,12,D,Provisions durables pour risques et charges,2023,12055,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,12,D,Provisions durables pour risques et charges,2024,42627,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,12,D,Provisions durables pour risques et charges,2025,12054,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,13,D1,Provisions pour risques,2023,2138,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,13,D1,Provisions pour risques,2024,33438,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,13,D1,Provisions pour risques,2025,3607,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,14,D2,Provisions pour charges,2023,9918,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,14,D2,Provisions pour charges,2024,9189,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,14,D2,Provisions pour charges,2025,8447,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,15,E,Écart de conversion passif permanent,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,15,E,Écart de conversion passif permanent,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,15,E,Écart de conversion passif permanent,2025,4395,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,16,I,Total financement permanent,2023,18824962,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,16,I,Total financement permanent,2024,16743409,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,16,I,Total financement permanent,2025,24265616,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,17,F,Dettes du passif circulant,2023,11794057,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,17,F,Dettes du passif circulant,2024,10718680,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,17,F,Dettes du passif circulant,2025,14043527,thousand_MAD,subtotal,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,18,F1,Fournisseurs et comptes rattachés,2023,5676301,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,18,F1,Fournisseurs et comptes rattachés,2024,4719132,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,18,F1,Fournisseurs et comptes rattachés,2025,6042746,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,19,F2,"Clients créditeurs, avances et acomptes",2023,126460,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,19,F2,"Clients créditeurs, avances et acomptes",2024,89401,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,19,F2,"Clients créditeurs, avances et acomptes",2025,112906,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,20,F3,Personnel,2023,1041265,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,20,F3,Personnel,2024,981570,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,20,F3,Personnel,2025,973807,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,21,F4,Organismes sociaux,2023,109811,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,21,F4,Organismes sociaux,2024,98744,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,21,F4,Organismes sociaux,2025,104517,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,22,F5,État,2023,2714892,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,22,F5,État,2024,2530837,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,22,F5,État,2025,4178122,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,23,F6,Comptes d'associés,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,23,F6,Comptes d'associés,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,23,F6,Comptes d'associés,2025,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,24,F7,Autres créanciers,2023,395226,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,24,F7,Autres créanciers,2024,391389,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,24,F7,Autres créanciers,2025,875005,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,25,F8,Comptes de régularisation passif,2023,1730102,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,25,F8,Comptes de régularisation passif,2024,1907606,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,25,F8,Comptes de régularisation passif,2025,1756424,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,26,G,Autres provisions pour risques et charges,2023,747310,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,26,G,Autres provisions pour risques et charges,2024,224576,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,26,G,Autres provisions pour risques et charges,2025,338685,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,27,H,Écart de conversion passif circulant,2023,72745,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,27,H,Écart de conversion passif circulant,2024,62934,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,27,H,Écart de conversion passif circulant,2025,127139,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,28,II,Total passif circulant hors trésorerie,2023,12614112,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,28,II,Total passif circulant hors trésorerie,2024,11006190,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,28,II,Total passif circulant hors trésorerie,2025,14509351,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,29,T1,Crédit d'escompte,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,29,T1,Crédit d'escompte,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,29,T1,Crédit d'escompte,2025,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,30,T2,Crédit de trésorerie,2023,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,30,T2,Crédit de trésorerie,2024,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,30,T2,Crédit de trésorerie,2025,0,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,31,T3,"Banques, soldes créditeurs",2023,7037801,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,31,T3,"Banques, soldes créditeurs",2024,12155557,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,31,T3,"Banques, soldes créditeurs",2025,1724996,thousand_MAD,detail,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,32,III,Total trésorerie passif,2023,7037801,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,32,III,Total trésorerie passif,2024,12155557,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,32,III,Total trésorerie passif,2025,1724996,thousand_MAD,total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,33,TOTAL,TOTAL PASSIF,2023,38476876,thousand_MAD,grand_total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,33,TOTAL,TOTAL PASSIF,2024,39905156,thousand_MAD,grand_total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,Bilan passif,33,TOTAL,TOTAL PASSIF,2025,40499963,thousand_MAD,grand_total,reported,S4,234
+IAM_SA,CGNC_comptes_sociaux,CPC,1,I,Produits d'exploitation,2023,19143768,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,1,I,Produits d'exploitation,2024,18762242,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,1,I,Produits d'exploitation,2025,18322240,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,2,P1,Ventes de marchandises,2023,379585,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,2,P1,Ventes de marchandises,2024,294575,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,2,P1,Ventes de marchandises,2025,260592,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,3,P2,Ventes de biens et services produits,2023,18169576,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,3,P2,Ventes de biens et services produits,2024,18096034,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,3,P2,Ventes de biens et services produits,2025,17870932,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,4,CA,Chiffre d'affaires,2023,18549161,thousand_MAD,total,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,4,CA,Chiffre d'affaires,2024,18390609,thousand_MAD,total,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,4,CA,Chiffre d'affaires,2025,18131524,thousand_MAD,total,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,5,P3,Variation des stocks de produits,2023,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,5,P3,Variation des stocks de produits,2024,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,5,P3,Variation des stocks de produits,2025,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,6,P4,Immobilisations produites pour l'entreprise,2023,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,6,P4,Immobilisations produites pour l'entreprise,2024,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,6,P4,Immobilisations produites pour l'entreprise,2025,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,7,P5,Subventions d'exploitation,2023,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,7,P5,Subventions d'exploitation,2024,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,7,P5,Subventions d'exploitation,2025,0,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,8,P6,Autres produits d'exploitation,2023,22911,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,8,P6,Autres produits d'exploitation,2024,38864,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,8,P6,Autres produits d'exploitation,2025,30677,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,9,P7,Reprises d'exploitation et transferts de charges,2023,571696,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,9,P7,Reprises d'exploitation et transferts de charges,2024,332769,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,9,P7,Reprises d'exploitation et transferts de charges,2025,160039,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,10,II,Charges d'exploitation,2023,11812214,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,10,II,Charges d'exploitation,2024,11493966,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,10,II,Charges d'exploitation,2025,11782999,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,11,C1,Achats revendus de marchandises,2023,392216,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,11,C1,Achats revendus de marchandises,2024,415780,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,11,C1,Achats revendus de marchandises,2025,288855,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,12,C2,Achats consommés de matières et fournitures,2023,3049651,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,12,C2,Achats consommés de matières et fournitures,2024,2877083,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,12,C2,Achats consommés de matières et fournitures,2025,2798412,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,13,C3,Autres charges externes,2023,2519384,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,13,C3,Autres charges externes,2024,2692410,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,13,C3,Autres charges externes,2025,2866318,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,14,C4,Impôts et taxes,2023,366471,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,14,C4,Impôts et taxes,2024,333545,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,14,C4,Impôts et taxes,2025,298152,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,15,C5,Charges de personnel,2023,2107533,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,15,C5,Charges de personnel,2024,1948577,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,15,C5,Charges de personnel,2025,2016688,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,16,C6,Autres charges d'exploitation,2023,2530,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,16,C6,Autres charges d'exploitation,2024,2540,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,16,C6,Autres charges d'exploitation,2025,2540,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,17,C7,Dotations d'exploitation aux amortissements,2023,3074740,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,17,C7,Dotations d'exploitation aux amortissements,2024,2918943,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,17,C7,Dotations d'exploitation aux amortissements,2025,2891883,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,18,C8,Dotations d'exploitation aux provisions,2023,299689,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,18,C8,Dotations d'exploitation aux provisions,2024,305088,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,18,C8,Dotations d'exploitation aux provisions,2025,620151,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,19,III,Résultat d'exploitation,2023,7331554,thousand_MAD,total,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,19,III,Résultat d'exploitation,2024,7268276,thousand_MAD,total,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,19,III,Résultat d'exploitation,2025,6539241,thousand_MAD,total,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,20,IV,Produits financiers,2023,1691768,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,20,IV,Produits financiers,2024,1741536,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,20,IV,Produits financiers,2025,1702429,thousand_MAD,subtotal,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,21,PF1,Produits des titres de participation,2023,1308086,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,21,PF1,Produits des titres de participation,2024,1357213,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,21,PF1,Produits des titres de participation,2025,1166584,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,22,PF2,Gains de change,2023,315121,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,22,PF2,Gains de change,2024,326342,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,22,PF2,Gains de change,2025,380561,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,23,PF3,Intérêts et autres produits financiers,2023,13383,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,23,PF3,Intérêts et autres produits financiers,2024,23963,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,23,PF3,Intérêts et autres produits financiers,2025,74810,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,24,PF4,Reprises financières et transferts de charges,2023,55178,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,24,PF4,Reprises financières et transferts de charges,2024,34019,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,24,PF4,Reprises financières et transferts de charges,2025,80474,thousand_MAD,detail,reported,S4,235
+IAM_SA,CGNC_comptes_sociaux,CPC,25,V,Charges financières,2023,589764,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,25,V,Charges financières,2024,724876,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,25,V,Charges financières,2025,1748530,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,26,CF1,Charges d'intérêts,2023,294036,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,26,CF1,Charges d'intérêts,2024,390319,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,26,CF1,Charges d'intérêts,2025,308603,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,27,CF2,Pertes de change,2023,258682,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,27,CF2,Pertes de change,2024,253098,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,27,CF2,Pertes de change,2025,239837,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,28,CF3,Autres charges financières,2023,3027,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,28,CF3,Autres charges financières,2024,984,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,28,CF3,Autres charges financières,2025,34,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,29,CF4,Dotations financières,2023,34019,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,29,CF4,Dotations financières,2024,80474,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,29,CF4,Dotations financières,2025,1200057,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,30,VI,Résultat financier,2023,1102004,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,30,VI,Résultat financier,2024,1016661,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,30,VI,Résultat financier,2025,-46101,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,31,VII,Résultat courant,2023,8433558,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,31,VII,Résultat courant,2024,8284936,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,31,VII,Résultat courant,2025,6493140,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,32,VIII,Produits non courants,2023,1186497,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,32,VIII,Produits non courants,2024,1082214,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,32,VIII,Produits non courants,2025,2716949,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,33,PN1,Produits des cessions d'immobilisations,2023,2771,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,33,PN1,Produits des cessions d'immobilisations,2024,4197,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,33,PN1,Produits des cessions d'immobilisations,2025,18710,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,34,PN2,Subventions d'équilibre,2023,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,34,PN2,Subventions d'équilibre,2024,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,34,PN2,Subventions d'équilibre,2025,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,35,PN3,Reprises sur subventions d'investissement,2023,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,35,PN3,Reprises sur subventions d'investissement,2024,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,35,PN3,Reprises sur subventions d'investissement,2025,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,36,PN4,Autres produits non courants,2023,315466,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,36,PN4,Autres produits non courants,2024,412193,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,36,PN4,Autres produits non courants,2025,2547828,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,37,PN5,Reprises non courantes et transferts de charges,2023,868261,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,37,PN5,Reprises non courantes et transferts de charges,2024,665824,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,37,PN5,Reprises non courantes et transferts de charges,2025,150411,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,38,IX,Charges non courantes,2023,2176134,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,38,IX,Charges non courantes,2024,7497734,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,38,IX,Charges non courantes,2025,1004209,thousand_MAD,subtotal,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,39,CN1,VNA des immobilisations cédées,2023,274,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,39,CN1,VNA des immobilisations cédées,2024,113,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,39,CN1,VNA des immobilisations cédées,2025,444750,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,40,CN2,Subventions accordées,2023,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,40,CN2,Subventions accordées,2024,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,40,CN2,Subventions accordées,2025,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,41,CN3,Autres charges non courantes,2023,1049157,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,41,CN3,Autres charges non courantes,2024,6871495,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,41,CN3,Autres charges non courantes,2025,144988,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,42,CN4,Dotations réglementées,2023,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,42,CN4,Dotations réglementées,2024,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,42,CN4,Dotations réglementées,2025,0,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,43,CN5,Dotations non courantes aux amortissements et provisions,2023,1126704,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,43,CN5,Dotations non courantes aux amortissements et provisions,2024,626126,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,43,CN5,Dotations non courantes aux amortissements et provisions,2025,414471,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,44,X,Résultat non courant,2023,-989637,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,44,X,Résultat non courant,2024,-6415521,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,44,X,Résultat non courant,2025,1712740,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,45,XI,Résultat avant impôts,2023,7443920,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,45,XI,Résultat avant impôts,2024,1869416,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,45,XI,Résultat avant impôts,2025,8205880,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,46,XII,Impôt sur les sociétés,2023,2020165,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,46,XII,Impôt sur les sociétés,2024,276712,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,46,XII,Impôt sur les sociétés,2025,2400505,thousand_MAD,detail,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,47,XIII,Résultat net,2023,5423755,thousand_MAD,grand_total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,47,XIII,Résultat net,2024,1592703,thousand_MAD,grand_total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,47,XIII,Résultat net,2025,5805375,thousand_MAD,grand_total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,48,XIV,Total des produits,2023,22022033,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,48,XIV,Total des produits,2024,21585992,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,48,XIV,Total des produits,2025,22741618,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,49,XV,Total des charges,2023,16598278,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,49,XV,Total des charges,2024,19993289,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,CPC,49,XV,Total des charges,2025,16936243,thousand_MAD,total,reported,S4,236
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,1,1,Ventes de marchandises,2023,379585,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,1,1,Ventes de marchandises,2024,294575,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,1,1,Ventes de marchandises,2025,260592,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,2,2,Achats revendus de marchandises,2023,392216,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,2,2,Achats revendus de marchandises,2024,415780,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,2,2,Achats revendus de marchandises,2025,288855,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,3,I,Marge brute sur ventes en l'état,2023,-12632,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,3,I,Marge brute sur ventes en l'état,2024,-121205,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,3,I,Marge brute sur ventes en l'état,2025,-28263,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,4,II,Production de l'exercice,2023,18169576,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,4,II,Production de l'exercice,2024,18096034,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,4,II,Production de l'exercice,2025,17870932,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,5,3,Ventes de biens et services produits,2023,18169576,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,5,3,Ventes de biens et services produits,2024,18096034,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,5,3,Ventes de biens et services produits,2025,17870932,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,6,4,Variation des stocks de produits,2023,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,6,4,Variation des stocks de produits,2024,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,6,4,Variation des stocks de produits,2025,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,7,5,Immobilisations produites pour l'entreprise,2023,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,7,5,Immobilisations produites pour l'entreprise,2024,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,7,5,Immobilisations produites pour l'entreprise,2025,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,8,III,Consommation de l'exercice,2023,5569035,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,8,III,Consommation de l'exercice,2024,5569493,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,8,III,Consommation de l'exercice,2025,5664730,thousand_MAD,subtotal,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,9,6,Achats consommés de matières et fournitures,2023,3049651,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,9,6,Achats consommés de matières et fournitures,2024,2877083,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,9,6,Achats consommés de matières et fournitures,2025,2798412,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,10,7,Autres charges externes,2023,2519384,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,10,7,Autres charges externes,2024,2692410,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,10,7,Autres charges externes,2025,2866318,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,11,IV,Valeur ajoutée,2023,12587909,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,11,IV,Valeur ajoutée,2024,12405335,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,11,IV,Valeur ajoutée,2025,12177939,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,12,8,Subventions d'exploitation,2023,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,12,8,Subventions d'exploitation,2024,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,12,8,Subventions d'exploitation,2025,0,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,13,9,Impôts et taxes,2023,366471,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,13,9,Impôts et taxes,2024,333545,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,13,9,Impôts et taxes,2025,298152,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,14,10,Charges de personnel,2023,2107533,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,14,10,Charges de personnel,2024,1948577,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,14,10,Charges de personnel,2025,2016688,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,15,V,Excédent brut d'exploitation (EBE),2023,10113906,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,15,V,Excédent brut d'exploitation (EBE),2024,10123213,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,15,V,Excédent brut d'exploitation (EBE),2025,9863099,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,16,11,Autres produits d'exploitation,2023,22911,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,16,11,Autres produits d'exploitation,2024,38864,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,16,11,Autres produits d'exploitation,2025,30677,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,17,12,Autres charges d'exploitation,2023,2530,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,17,12,Autres charges d'exploitation,2024,2540,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,17,12,Autres charges d'exploitation,2025,2540,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,18,13,Reprises d'exploitation et transferts de charges,2023,571696,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,18,13,Reprises d'exploitation et transferts de charges,2024,332769,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,18,13,Reprises d'exploitation et transferts de charges,2025,160039,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,19,14,Dotations d'exploitation,2023,3374428,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,19,14,Dotations d'exploitation,2024,3224031,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,19,14,Dotations d'exploitation,2025,3512034,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,20,VI,Résultat d'exploitation,2023,7331554,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,20,VI,Résultat d'exploitation,2024,7268276,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,20,VI,Résultat d'exploitation,2025,6539241,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,21,VII,Résultat financier,2023,1102004,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,21,VII,Résultat financier,2024,1016661,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,21,VII,Résultat financier,2025,-46101,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,22,VIII,Résultat courant,2023,8433558,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,22,VIII,Résultat courant,2024,8284936,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,22,VIII,Résultat courant,2025,6493140,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,23,IX,Résultat non courant,2023,-989637,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,23,IX,Résultat non courant,2024,-6415521,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,23,IX,Résultat non courant,2025,1712740,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,24,15,Impôts sur les résultats,2023,2020165,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,24,15,Impôts sur les résultats,2024,276712,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,24,15,Impôts sur les résultats,2025,2400505,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,25,X,Résultat net de l'exercice,2023,5423755,thousand_MAD,grand_total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,25,X,Résultat net de l'exercice,2024,1592703,thousand_MAD,grand_total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,ESG TFR,25,X,Résultat net de l'exercice,2025,5805375,thousand_MAD,grand_total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,1,1,Résultat net de l'exercice,2023,5423755,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,1,1,Résultat net de l'exercice,2024,1592703,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,1,1,Résultat net de l'exercice,2025,5805375,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,2,2,Dotations d'exploitation éligibles CAF,2023,3074740,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,2,2,Dotations d'exploitation éligibles CAF,2024,2918943,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,2,2,Dotations d'exploitation éligibles CAF,2025,2891883,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,3,3,Dotations financières éligibles CAF,2023,2138,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,3,3,Dotations financières éligibles CAF,2024,33438,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,3,3,Dotations financières éligibles CAF,2025,1153581,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,4,4,Dotations non courantes éligibles CAF,2023,626704,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,4,4,Dotations non courantes éligibles CAF,2024,621126,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,4,4,Dotations non courantes éligibles CAF,2025,318984,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,5,5,Reprises d'exploitation éligibles CAF,2023,784,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,5,5,Reprises d'exploitation éligibles CAF,2024,729,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,5,5,Reprises d'exploitation éligibles CAF,2025,742,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,6,6,Reprises financières éligibles CAF,2023,1455,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,6,6,Reprises financières éligibles CAF,2024,2138,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,6,6,Reprises financières éligibles CAF,2025,33438,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,7,7,Reprises non courantes éligibles CAF,2023,168261,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,7,7,Reprises non courantes éligibles CAF,2024,165824,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,7,7,Reprises non courantes éligibles CAF,2025,150411,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,8,8,Produits de cessions d'immobilisations,2023,2771,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,8,8,Produits de cessions d'immobilisations,2024,4197,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,8,8,Produits de cessions d'immobilisations,2025,18710,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,9,9,VNA des immobilisations cédées,2023,274,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,9,9,VNA des immobilisations cédées,2024,113,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,9,9,VNA des immobilisations cédées,2025,444750,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,10,I,Capacité d'autofinancement (CAF),2023,8954339,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,10,I,Capacité d'autofinancement (CAF),2024,4993435,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,10,I,Capacité d'autofinancement (CAF),2025,10411273,thousand_MAD,total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,11,10,Distribution de bénéfices,2023,1924934,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,11,10,Distribution de bénéfices,2024,3691135,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,11,10,Distribution de bénéfices,2025,1256990,thousand_MAD,detail,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,12,II,Autofinancement,2023,7029405,thousand_MAD,grand_total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,12,II,Autofinancement,2024,1302301,thousand_MAD,grand_total,reported,S4,237
+IAM_SA,CGNC_comptes_sociaux,CAF,12,II,Autofinancement,2025,9154283,thousand_MAD,grand_total,reported,S4,237
